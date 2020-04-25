@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HSE_LAB_11/1.0.0": {
+        "runtime": {
+          "HSE_LAB_11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HSE_LAB_11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\bin\Debug\netcoreapp3.1\HSE_LAB_11.exe
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\bin\Debug\netcoreapp3.1\HSE_LAB_11.deps.json
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\bin\Debug\netcoreapp3.1\HSE_LAB_11.runtimeconfig.json
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\bin\Debug\netcoreapp3.1\HSE_LAB_11.runtimeconfig.dev.json
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\bin\Debug\netcoreapp3.1\HSE_LAB_11.dll
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\bin\Debug\netcoreapp3.1\HSE_LAB_11.pdb
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\obj\Debug\netcoreapp3.1\HSE_LAB_11.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\obj\Debug\netcoreapp3.1\HSE_LAB_11.AssemblyInfoInputs.cache
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\obj\Debug\netcoreapp3.1\HSE_LAB_11.AssemblyInfo.cs
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\obj\Debug\netcoreapp3.1\HSE_LAB_11.dll
+C:\Users\Aleksandr\source\repos\HSE_LAB_11\HSE_LAB_11\obj\Debug\netcoreapp3.1\HSE_LAB_11.pdb
